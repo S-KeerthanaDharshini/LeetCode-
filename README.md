@@ -3,6 +3,11 @@
 The repository contains my solutions to coding problems from [LeetCode](https://leetcode.com/) 🚀  
 Focused on improving algorithmic thinking and mastering coding interviews 💼✨
 
+
+### 🔗 My LeetCode Profile:
+ [leetcode.com/u/keerthana_it](https://leetcode.com/u/keerthana_it)
+
+
 Topics include:
 - 🔁 Arrays & Strings  
 - 🌲 Trees & Graphs  
